@@ -29,7 +29,7 @@ I’m a 4th-semester Bachelor of Science student in Artificial Intelligence & Da
 
 ## ❤️ Values & Interests  
 - **Tech for Good:** Ethics, accessibility & privacy-respecting systems
-- **Maker Mindset:** Homelab tinkering and self-hosted services
+- **Homelab Enthusiast:** Self-hosted services (Pi-Hole, Nextcloud, Home Assistant)  
 - **Community & Service:** Volunteer firefighter, youth helpline listener
 
 ---
