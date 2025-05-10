@@ -15,7 +15,7 @@ I’m a 4th-semester Bachelor of Science student in Artificial Intelligence & Da
 
 - **Time-Series ML Project**  
   Predicting flood levels in Python/TensorFlow as a university capstone; includes data engineering and model evaluation.  
-  🔗 [github.com/MaxKitsune/flood-forecast](https://github.com/MaxKitsune/flood-prediction)  
+  🔗 [github.com/MaxKitsune/flood-prediction](https://github.com/MaxKitsune/flood-prediction)  
 
 ---
 
