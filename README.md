@@ -3,7 +3,7 @@ Hey there, I'm using GitHub! ^w^
 4th Semester AI & Data Science Student from Germany 🇩🇪
 
 ##  What I'm into
-- Machine Learning & AI: currently experimenting with basic algorithms & TTS voice cloning
+- Machine Learning & AI: Exploring algorithms and TTS voice cloning, plus uploading samples of my university projects.
 - Browser-based tools: My current project helps with fact-checking stuff online; will be released if it works as intended :p
 - Homelabbing: Maybe you'll find some related stuff to homeservers like pihole or homeassistant someday
 
