@@ -9,13 +9,13 @@ I’m a 4th-semester Bachelor of Science student in Artificial Intelligence & Da
   Co-engineering *fact.check* to let users vote on website credibility; backend built in Python + local reverse proxy.  
   🔗 [github.com/MaxKitsune/fact.check](https://github.com/MaxKitsune/fact.check)  
 
-- **Voice-Cloning Pipeline**  
-  Training custom TTS voices with Piper & Coqui on GPU servers; automated data prep with Python scripts.  
-  📂 (coming soon…)  
-
 - **Time-Series ML Project**  
   Predicting flood levels in Python/TensorFlow as a university capstone; includes data engineering and model evaluation.  
-  🔗 [github.com/MaxKitsune/flood-prediction](https://github.com/MaxKitsune/flood-prediction)  
+  🔗 [github.com/MaxKitsune/flood-prediction](https://github.com/MaxKitsune/flood-prediction)
+
+- **Voice-Cloning Pipeline**  
+Training custom TTS voices with Piper & Coqui on GPU servers; automated data prep with Python scripts.  
+  🔗 [github.com/MaxKitsune/coqui-voiceclone-scripts](https://github.com/MaxKitsune/coqui-voiceclone-scripts)
 
 ---
 
