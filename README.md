@@ -36,5 +36,6 @@ Training custom TTS voices with Piper & Coqui on GPU servers; automated data pre
 
 ## 📬 Let’s Connect  
 I’m open to AI/ML internships and collaborations.
-- E-Mail on request.
 - 🌐 More projects: [github.com/MaxKitsune](https://github.com/MaxKitsune)  
+
+This GitHub profile belongs to Maximilian F. Most of the projects here are referenced in my internship application.
