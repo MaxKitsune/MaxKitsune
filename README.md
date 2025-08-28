@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Max
 
-I’m a 4th-semester Bachelor of Science student in Artificial Intelligence & Data Science from Germany 🇩🇪, building real-world ML applications and self-hosted systems.  
+I’m a 5th-semester Bachelor of Science student in Artificial Intelligence & Data Science from Germany 🇩🇪, building real-world ML applications and self-hosted systems.  
 
 ---
 
