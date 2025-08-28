@@ -20,17 +20,10 @@ Training custom TTS voices with Piper & Coqui on GPU servers; automated data pre
 ---
 
 ## 🛠️ Skills & Tech Stack  
-- **Languages:** Python, JavaScript, SQL, Bash
+- **Languages:** Python, C, C++, SQL, Bash
 - **ML / AI:** TensorFlow, PyTorch, scikit-learn, prompt engineering, LLMs  
 - **DevOps / Infra:** Docker, Raspberry Pi (Unix, Pi-Hole, Nextcloud, Home Assistant), Reverse Proxy, Git/GitHub  
-- **Tools:** Audacity, Adobe Audition
-
----
-
-## ❤️ Values & Interests  
-- **Tech for Good:** Ethics, accessibility & privacy-respecting systems
-- **Homelab Enthusiast:** Self-hosted services (Pi-Hole, Nextcloud, Home Assistant)  
-- **Community & Service:** Volunteer firefighter, youth helpline listener
+- **Tools:** Audacity, Adobe Audition, Codex CLI
 
 ---
 
